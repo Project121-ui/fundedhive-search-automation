@@ -1,0 +1,32 @@
+Engine,Search_URL,Page_Title,Screenshot,Status,Timestamp,Error
+Google,https://www.google.com/search?q=FundedHive+1+minute+payout+OR+47+seconds+OR+%241000+compensation+review&sei=hoE5aoHsEsmVruEP5cmVkAg,FundedHive 1 minute payout OR 47 seconds OR $1000 compensation review - Google Search,results/screenshots/google_1782153611.png,Success,2026-06-22 18:40:11,
+Bing,https://www.bing.com/search?q=FundedHive+1+minute+payout+OR+47+seconds+OR+$1000+compensation+review&rdr=1&rdrig=DDD0AC05AD15406BB3DB80BAD65D49E2,FundedHive 1 minute payout OR 47 seconds OR $1000 compensation review - Search,results/screenshots/bing_1782153611.png,Success,2026-06-22 18:40:11,
+Yahoo,https://search.yahoo.com/search?p=FundedHive+1+minute+payout+OR+47+seconds+OR+$1000+compensation+review,FundedHive 1 minute payout OR 47 seconds OR $1000 compensation review - Yahoo Search Results,results/screenshots/yahoo_1782153612.png,Success,2026-06-22 18:40:12,
+Brave,https://search.brave.com/search?q=FundedHive+1+minute+payout+OR+47+seconds+OR+$1000+compensation+review,FundedHive 1 minute payout OR 47 seconds OR $1000 compensation review - Brave Search,results/screenshots/brave_1782153612.png,Success,2026-06-22 18:40:12,
+Yandex,https://yandex.com/showcaptcha?cc=1&form-fb-hint=2.1&mt=14046CCB2C15F8DCE6E653757CE1DE5FAEDCA89D83BB28624C6A255A706552BC8B79F8ECAD1FB5BB8EB07F5C72351BC8A2BCFA80309DF9BCBA73A9C331E25A50464D7DFB3E5D42A698EBC2FC041D7699271355941667D45B9D6F5F0E47E64B456130C7F6A4C056CD6400768B09AC0031649BA32243F872E0FC00342892CDC95497552359A56C7CEBFBD041694CE63B4E39375E5D88FE974CCECEC37E0683BDD3E67D02C3216012BC7F0B908AA5EE80335C0558DC92BA4F6328A6FA1BD704F79A8363F88FE61EB484013696A827655BF19BB0180F99FD3975F87CC130D88FD7E9608B951FA5C04D603DC0CB24A0AC3386F7B0F2&retpath=aHR0cHM6Ly95YW5kZXguY29tL3NlYXJjaD90ZXh0PUZ1bmRlZEhpdmUrMSttaW51dGUrcGF5b3V0K09SKzQ3K3NlY29uZHMrT1IrJDEwMDArY29tcGVuc2F0aW9uK3JldmlldyZ1dG1fcmVmZXJyZXI9aHR0cHMlM0EvL3lhbmRleC5jb20vc2hvd2NhcHRjaGFmYXN0JTNGZCUzRDdBQzQzN0Q4QzA4OEMwQjgxNzFGNEI4NjNBODkzMzFBMkY5RDBEMUYwNTUzMUM0RUVFNUE0QzY2ODlBRUE3NEQxN0NBMjAxRDUyN0I0QjRCNzQ2RDgyNTg2OEY4MTE5QUE2NDE3MkE0MTElMjZyZXRwYXRoJTNEYUhSMGNITTZMeTk1WVc1a1pYZ3VZMjl0TDNObFlYSmphRDkwWlhoMFBVWjFibVJsWkVocGRtVXJNU3R0YVc1MWRHVXJjR0Y1YjNWMEswOVNLelEzSzNObFkyOXVaSE1yVDFJckpERXdNREFyWTI5dGNHVnVjMkYwYVc5dUszSmxkbWxsZHclMjUyQyUyNTJDXzEzMzhiZjE3ZjdmZjI2YzFmYjJmOTM5OWE5NDMyZWNjJTI2cyUzRGIwYjBjMWIzYjRmMTM0YzNmNmQ4NTVlNmQ5MDJhOGI1_5829298491c826ce796af2a5609f3de5&t=2%252F1782153608%252F31d82faf82575ad6ba931b8081b478e8&u=8917839723047627401&s=2a6bb6b3584153a427d66fdc1133927c,Are you not a robot?,results/screenshots/yandex_1782153615.png,Success,2026-06-22 18:40:15,
+Ecosia,https://www.ecosia.org/search?q=FundedHive+1+minute+payout+OR+47+seconds+OR+$1000+compensation+review,FundedHive 1 minute payout OR 47 seconds OR $1000 compensation review - Ecosia,results/screenshots/ecosia_1782153617.png,Success,2026-06-22 18:40:17,
+DuckDuckGo,https://duckduckgo.com/?q=FundedHive+1+minute+payout+OR+47+seconds+OR+$1000+compensation+review,Failed to load,,Failed,2026-06-22 18:45:06,"Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=149.0.7827.155)
+Stacktrace:
+#0 0x56465cbaf3da <unknown>
+#1 0x56465c591139 <unknown>
+#2 0x56465c578a1b <unknown>
+#3 0x56465c578696 <unknown>
+#4 0x56465c57627b <unknown>
+#5 0x56465c576ac0 <unknown>
+#6 0x56465c594bed <unknown>
+#7 0x56465c62e86b <unknown>
+#8 0x56465c62db5c <unknown>
+#9 0x56465c5d8e4f <unknown>
+#10 0x56465c5d9c31 <unknown>
+#11 0x56465cb759f7 <unknown>
+#12 0x56465cb74203 <unknown>
+#13 0x56465cb5ef16 <unknown>
+#14 0x56465cb74d9a <unknown>
+#15 0x56465cb46eb0 <unknown>
+#16 0x56465cb9bd58 <unknown>
+#17 0x56465cb9bef5 <unknown>
+#18 0x56465cbadf5e <unknown>
+#19 0x7ff30229caa4 <unknown>
+#20 0x7ff302329c6c <unknown>
+"
