@@ -1,0 +1,8 @@
+Engine,Search_URL,Page_Title,Screenshot,Status,Timestamp,Error
+Yahoo,https://search.yahoo.com/search?p=FundedHive+1+minute+payout+OR+47+seconds+OR+$1000+compensation+review,Failed to load,,Failed,2026-09-17 02:19:11,tuple index out of range
+Yandex,https://yandex.com/search/?text=FundedHive+1+minute+payout+OR+47+seconds+OR+$1000+compensation+review,Failed to load,,Failed,2026-09-17 02:19:11,tuple index out of range
+DuckDuckGo,https://duckduckgo.com/?q=FundedHive+1+minute+payout+OR+47+seconds+OR+$1000+compensation+review,Failed to load,,Failed,2026-09-17 02:19:11,File is not a zip file
+Bing,https://www.bing.com/search?q=FundedHive+1+minute+payout+OR+47+seconds+OR+$1000+compensation+review,Failed to load,,Failed,2026-09-17 02:19:11,tuple index out of range
+Google,https://www.google.com/search?q=FundedHive+1+minute+payout+OR+47+seconds+OR+$1000+compensation+review,Failed to load,,Failed,2026-09-17 02:19:11,[Errno 26] Text file busy: '/home/runner/.wdm/drivers/chromedriver/linux64/153.0.8010.47/chromedriver-linux64/chromedriver'
+Ecosia,https://www.ecosia.org/search?q=FundedHive+1+minute+payout+OR+47+seconds+OR+$1000+compensation+review,Just a moment...,results/screenshots/ecosia_1789611558.png,Success,2026-09-17 02:19:18,
+Brave,https://search.brave.com/search?q=FundedHive+1+minute+payout+OR+47+seconds+OR+%241000+compensation+review&conversation=09939940e8671c726313e86bb88b04cf0ed1,FundedHive 1 minute payout OR 47 seconds OR $1000 compensation review - Brave Search,results/screenshots/brave_1789611559.png,Success,2026-09-17 02:19:19,
